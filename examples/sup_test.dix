@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<dictionary>
+<alphabet>12345abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-.</alphabet>
+
+<sdefs>
+<sdef n="vargaH:nA" c="Noun"/>
+
+<sdef n="lifgam:puM" c="masculine"/>
+<sdef n="lifgam:swrI" c="feminine"/>
+<sdef n="lifgam:napuM" c="neuter"/>
+<sdef n="lifgam:a" c="any"/>
+
+<sdef n="vacanam:eka" c="singular"/>
+<sdef n="vacanam:xvi" c="dual"/>
+<sdef n="vacanam:bahu" c="plural"/>
+
+<sdef n="viBakwiH:1" c="1"/>
+<sdef n="viBakwiH:2" c="2"/>
+<sdef n="viBakwiH:3" c="3"/>
+<sdef n="viBakwiH:4" c="4"/>
+<sdef n="viBakwiH:5" c="5"/>
+<sdef n="viBakwiH:6" c="6"/>
+<sdef n="viBakwiH:7" c="7"/>
+<sdef n="viBakwiH:8" c="8"/>
+
+<sdef n="level:0" c="0"/>
+<sdef n="level:1" c="1"/>
+<sdef n="level:2" c="2"/>
+<sdef n="level:3" c="3"/>
+<sdef n="level:4" c="4"/>
+
+</sdefs>
+
+<pardefs>
+<pardef n="rAm/a__nm">
+<e><p><l>aH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:1"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>O</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:1"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>AH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:1"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>am</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:2"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>O</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:2"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>An</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:2"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>eNa</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:3"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>AByAm</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:3"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>EH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:3"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>Aya</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:4"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>AByAm</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:4"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>eByaH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:4"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>Aw</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:5"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>Ax</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:5"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>AByAm</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:5"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>eByaH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:5"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>asya</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:6"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>ayoH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:6"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>ANAm</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:6"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+<e><p><l>e</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:7"/><s n="vacanam:eka"/><s n="level:1"/></r></p></e>
+<e><p><l>ayoH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:7"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
+<e><p><l>eRu</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:7"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
+</pardef>
+<section id="main" type="standard">
+<e lm="rAma"><i>rAm</i><par n="rAm/a__nm"/></e>
+<e lm="rAmaBaxra"><i>rAmaBaxr</i><par n="rAm/a__nm"/></e>
+</section>
+</dictionary>
+
