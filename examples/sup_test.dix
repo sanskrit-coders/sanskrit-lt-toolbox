@@ -4,6 +4,10 @@
 
 <sdefs>
 <sdef n="vargaH:nA" c="Noun"/>
+<sdef n="vargaH:sa-pU-pa" c="samAsa pUrva pada"/>
+<sdef n="vargaH:sa-u-pa-puM" c="samAsa uwwara pada"/>
+<sdef n="vargaH:sa-u-pa-napuM" c="samAsa uwwara pada"/>
+<sdef n="vargaH:sa-u-pa-swrI" c="samAsa uwwara pada"/>
 
 <sdef n="lifgam:puM" c="masculine"/>
 <sdef n="lifgam:swrI" c="feminine"/>
@@ -56,9 +60,28 @@
 <e><p><l>ayoH</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:7"/><s n="vacanam:xvi"/><s n="level:1"/></r></p></e>
 <e><p><l>eRu</l><r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:7"/><s n="vacanam:bahu"/><s n="level:1"/></r></p></e>
 </pardef>
+<pardef n="xev/a__spn">
+<e><p><l>a</l> <r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:8"/><s n="vacanam:eka"/><s n="level:4"/></r></p></e>
+<e><p><l>O</l> <r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:8"/><s n="vacanam:xvi"/><s n="level:4"/></r></p></e>
+<e><p><l>AH</l> <r>a<s n="vargaH:nA"/><s n="lifgam:puM"/><s n="viBakwiH:8"/><s n="vacanam:bahu"/><s n="level:4"/></r></p></e>
+</pardef>
+<pardef n="sIw/A__spn">
+<e><p><l>e</l> <r>A<s n="vargaH:nA"/><s n="lifgam:swrI"/><s n="viBakwiH:8"/><s n="vacanam:eka"/><s n="level:4"/></r></p></e>
+<e><p><l>e</l> <r>A<s n="vargaH:nA"/><s n="lifgam:swrI"/><s n="viBakwiH:8"/><s n="vacanam:xvi"/><s n="level:4"/></r></p></e>
+<e><p><l>AH</l> <r>A<s n="vargaH:nA"/><s n="lifgam:swrI"/><s n="viBakwiH:8"/><s n="vacanam:bahu"/><s n="level:4"/></r></p></e>
+</pardef>
+<pardef n="jFAn/a__sn">
+<e><p><l>a</l><r>a<s n="vargaH:sa-u-pa-puM"/><s n="lifgam:napuM"/><s n="level:0"/></r></p></e>
+<e><p><l></l><r></r></p><i></i><par n="xev/a__spn"/></e>
+<e><p><l>A</l><r>a<s n="vargaH:sa-u-pa-swrI"/><s n="lifgam:napuM"/><s n="level:0"/></r></p></e>
+<e><p><l></l><r></r></p><i></i><par n="sIw/A__spn"/></e>
+</pardef>
+</pardefs>
+
 <section id="main" type="standard">
 <e lm="rAma"><i>rAm</i><par n="rAm/a__nm"/></e>
 <e lm="rAmaBaxra"><i>rAmaBaxr</i><par n="rAm/a__nm"/></e>
 </section>
+
 </dictionary>
 
